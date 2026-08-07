@@ -2,7 +2,7 @@
 
 ## About the Project
 
-This project was built to explore how the **Zeek Network Monitoring Framework** can be used outside of traditional network security.
+This project was built to explore how the **Zeek Network Monitoring Framework** can be used beyond traditional network security.
 
 Instead of analyzing network attacks, I used Zeek to monitor environmental telemetry from an incubator. The system checks important parameters such as temperature, CO₂, humidity, and oxygen levels, determines whether they are within safe operating ranges, generates alerts when abnormal conditions are detected, and records the results using custom Zeek logs.
 
