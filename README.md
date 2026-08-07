@@ -1,0 +1,2 @@
+# Incubator-Environmental-Monitoring-and-Alert-System-Using-Zeek-Network-Monitoring-Framework
+project implements an automated incubator monitoring system using the Zeek network security monitoring framework. A telemetry simulator generates incubator sensor data, Zeek analyzes the received information, checks predefined safety thresholds, generates alerts for abnormal conditions, and stores monitoring results in log files.
