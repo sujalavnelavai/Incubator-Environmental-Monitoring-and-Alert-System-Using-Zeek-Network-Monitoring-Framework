@@ -1,0 +1,13 @@
+#separator \x09
+#set_separator	,
+#empty_field	(empty)
+#unset_field	-
+#path	incubator
+#open	2026-07-31-13-42-23
+#fields	ts	sensor	value	units	status
+#types	time	string	double	string	string
+0.000000	temperature	37.0	C	NORMAL
+0.000000	co2	5.0	%	NORMAL
+0.000000	humidity	95.0	%	NORMAL
+0.000000	oxygen	20.0	%	NORMAL
+#close	2026-07-31-13-42-23
