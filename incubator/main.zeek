@@ -56,7 +56,6 @@ event zeek_init()
     );
 
 
-    print "Incubator environment stable";
 
 
     print fmt(
